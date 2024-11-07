@@ -4,3 +4,4 @@ Nama Anggota Kelompok :
 3. Naufal Dwi S (V3423066)
 4. Regita Aulia F (V3423073)
 5. Sulthan Syahrul B.A (V3423082)
+# CRUD-SliceBeard-Test
